@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, Pygame-CE, and React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/they
 - ⚡ Fun fact: I taught myself programming!
 
 <!---
